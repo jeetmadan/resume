@@ -25,21 +25,26 @@ class Contact extends Component
                         <div className="contact-list">
                             <List>
                                 <ListItem>
-                                    <ListItemContent style={{fontSize: '30px', fontFamily: 'Anton'}}>
+                                    <ListItemContent style={{fontSize: '26px', fontFamily: 'Anton'}}>
                                         <i className="fa fa-phone-square" aria-hidden="true"/>
-                                        (+91) 7903184903
+                                        (+91) 7619291034
                                     </ListItemContent>
                                 </ListItem>
 
                                 <ListItem>
-                                    <ListItemContent style={{fontSize: '30px', fontFamily: 'Anton'}}>
+                                    <ListItemContent style={{fontSize: '26px', fontFamily: 'Anton'}}>
                                         <i className="fa fa-envelope" aria-hidden="true"/>
-                                        mkumar_be16@thapar.edu
+                                        kumarmadanjeet1997@gmail.com
                                     </ListItemContent>
                                 </ListItem>
-
                                 <ListItem>
-                                    <ListItemContent style={{fontSize: '30px', fontFamily: 'Anton'}}>
+                                    <ListItemContent style={{fontSize: '18px', fontFamily: 'Anton'}}>
+                                        <i className="fa fa-linkedin-square" aria-hidden="true"/>
+                                        https://www.linkedin.com/in/madanjeet-kumar/
+                                    </ListItemContent>
+                                </ListItem>
+                                <ListItem>
+                                    <ListItemContent style={{fontSize: '26px', fontFamily: 'Anton'}}>
                                         <i className="fa fa-skype" aria-hidden="true"/>
                                         live:.cid.d053589b3edb80e2
                                     </ListItemContent>
