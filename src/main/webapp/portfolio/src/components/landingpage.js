@@ -35,14 +35,14 @@ class Landingpage extends Component
                                 </a>
 
                                 {/* Facebook */}
-                                <a href="https://www.facebook.com/madanjeet.kumar.7" rel="noopener noreferrer" target="_blank">
-                                    <i className="fa fa-facebook-square" aria-hidden="true" />
-                                </a>
+                                {/*<a href="https://www.facebook.com/madanjeet.kumar.7" rel="noopener noreferrer" target="_blank">*/}
+                                {/*    <i className="fa fa-facebook-square" aria-hidden="true" />*/}
+                                {/*</a>*/}
 
-                                {/* instagram */}
-                                <a href="https://www.instagram.com/k.madanjeet/" target="_blank" rel="noopener">
-                                    <i className="fa  fa-instagram" aria-hidden="true" />
-                                </a>
+                                {/*/!* instagram *!/*/}
+                                {/*<a href="https://www.instagram.com/k.madanjeet/" target="_blank" rel="noopener">*/}
+                                {/*    <i className="fa  fa-instagram" aria-hidden="true" />*/}
+                                {/*</a>*/}
                             </div>
                         </div>
                     </Cell>

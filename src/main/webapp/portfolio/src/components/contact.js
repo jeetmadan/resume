@@ -9,16 +9,6 @@ class Contact extends Component
             <div className="contact-body">
                 <Grid className="contact-grid">
                     <Cell col={6}>
-                        <h2>Madanjeet Kumar</h2>
-                        <img
-                            src={logo}
-                            alt="avatar"
-                            style={{height: '250px'}}
-                        />
-                        <p style={{ width: '75%', margin: 'auto', paddingTop: '1em'}}>“You might not think that programmers are artists, but programming is an extremely creative profession. It's logic-based creativity.” - John Romero</p>
-
-                    </Cell>
-                    <Cell col={6}>
                         <h2>Contact Me</h2>
                         <hr/>
 
@@ -53,6 +43,16 @@ class Contact extends Component
 
                             </List>
                         </div>
+                    </Cell>
+                    <Cell>
+                        <h2>Madanjeet Kumar</h2>
+                        <img
+                            src={logo}
+                            alt="avatar"
+                            style={{height: '250px'}}
+                        />
+                        <p style={{ width: '75%', margin: 'auto', paddingTop: '1em'}}>“You might not think that programmers are artists, but programming is an extremely creative profession. It's logic-based creativity.” - John Romero</p>
+
                     </Cell>
                 </Grid>
             </div>
