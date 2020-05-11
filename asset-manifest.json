@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/resume/static/css/main.103f2369.chunk.css",
+    "main.js": "/resume/static/js/main.7e3defa8.chunk.js",
+    "main.js.map": "/resume/static/js/main.7e3defa8.chunk.js.map",
+    "runtime-main.js": "/resume/static/js/runtime-main.4beab0ad.js",
+    "runtime-main.js.map": "/resume/static/js/runtime-main.4beab0ad.js.map",
+    "static/css/2.3433bf6e.chunk.css": "/resume/static/css/2.3433bf6e.chunk.css",
+    "static/js/2.5cbc9884.chunk.js": "/resume/static/js/2.5cbc9884.chunk.js",
+    "static/js/2.5cbc9884.chunk.js.map": "/resume/static/js/2.5cbc9884.chunk.js.map",
+    "index.html": "/resume/index.html",
+    "precache-manifest.9154d7a32d036d85183ed8ad7f1af1e2.js": "/resume/precache-manifest.9154d7a32d036d85183ed8ad7f1af1e2.js",
+    "service-worker.js": "/resume/service-worker.js",
+    "static/css/2.3433bf6e.chunk.css.map": "/resume/static/css/2.3433bf6e.chunk.css.map",
+    "static/css/main.103f2369.chunk.css.map": "/resume/static/css/main.103f2369.chunk.css.map",
+    "static/js/2.5cbc9884.chunk.js.LICENSE.txt": "/resume/static/js/2.5cbc9884.chunk.js.LICENSE.txt",
+    "static/media/material-icons.css": "/resume/static/media/MaterialIcons-Regular.e79bfd88.eot",
+    "static/media/circle-cropped.png": "/resume/static/media/circle-cropped.eab9224b.png",
+    "static/media/madanjeet_final_cv.pdf": "/resume/static/media/madanjeet_final_cv.36b557be.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4beab0ad.js",
+    "static/css/2.3433bf6e.chunk.css",
+    "static/js/2.5cbc9884.chunk.js",
+    "static/css/main.103f2369.chunk.css",
+    "static/js/main.7e3defa8.chunk.js"
+  ]
+}
