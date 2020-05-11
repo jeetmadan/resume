@@ -1,5 +1,5 @@
 {
-  "homepage": "http://jeetmadan.github.io/portfolio",
+  "homepage": "http://jeetmadan.github.io/resume",
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
@@ -38,6 +38,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages-deploy": "^0.5.1",
     "react-iframe": "^1.8.0"
   }
 }
