@@ -171,10 +171,10 @@ class Project extends Component
         return(
             <div>
                 <Tabs activeTab={this.state.activeTab} onChange={(tabId) => this.setState({ activeTab: tabId })} ripple>
-                    <Tab>Spring Boot</Tab>
+                    <Tab>Spring</Tab>
                     <Tab>PHP</Tab>
-                    <Tab>Machine Learning</Tab>
-                    <Tab>Data Structure</Tab>
+                    <Tab>ML</Tab>
+                    <Tab>DS</Tab>
 
                 </Tabs>
 
